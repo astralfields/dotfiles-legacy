@@ -5,3 +5,4 @@ These are most of my configs and other files I used for laptop ricing. Uploaded 
 # Terminal colors
 
 http://color.smyck.org/
+or on GitHub https://github.com/hukl/Smyck-Color-Scheme/
