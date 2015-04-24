@@ -4,11 +4,15 @@
 Original version is "TinyCSS" of DeviantArt user noha-ra,
 found here: http://noha-ra.deviantart.com/art/Tinycss-476413072
 
-To use this, install the "Stylish" add-on.
-You will also need the "WeblySleek UI" typeface. If you are
-on Arch, install "ttf-weblysleekui"" from AUR.
-If you are on Windows, replace all occurrences of "weblysleek ui"
-with "segoe ui", it's a similar typeface.*/
+To use this, install the "Stylish" add-on. You will also need
+the "WeblySleek UI" typeface. If you are on Arch Linux, install
+"ttf-weblysleekui"" from AUR.
+
+IF YOU ARE ON WINDOWS: Yes you can use this. Just replace all
+occurrances of "weblysleek ui normal" with "segoe ui", it's a
+similar typeface. Also set the font size to 11. You may or may
+not have to set the URL bar height (line 188) to 17 if it's larger
+than the background bar - this was the case for me.*/
 
 
 /*tab-width*/
