@@ -9,8 +9,7 @@ font pango:DejaVu Sans Mono 8
 floating_modifier $mod
 
 # Wallpaper
-exec --no-startup-id feh --bg-fill --no-xinerama 
-/media/Daten/Pictures/ocean.jpg
+exec feh --bg-fill --no-xinerama /media/Daten/Pictures/ocean.jpg
 
 # Gaps
 gaps inner 14
