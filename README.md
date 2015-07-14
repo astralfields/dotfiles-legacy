@@ -15,6 +15,10 @@ For these settings to work you need:
 - Xfce (optional)
 - Firefox with Stylish addon (optional)
 
+Usually, the i3 config file is at *~/.i3/config* and compton's is at *~/.config/compton.conf*.
+
+Install TinyCSS-edit as a userstyle with Stylish. Chromium does not support this, sadly.
+
 **When using Xfce** (I use it for the panel and settings menu), use its session manager to set xfdesktop and xfwm4 to never restart (but keep xfsettingsd and xfce4-panel), have i3 and compton start on boot, save the session, logout and login. Install the "Numix-DarkBlue" system theme (available on AUR as *numix-themes-darkblue*) and "Numix Circle" icon theme (available on AUR as *numix-circle-icon-theme-git*) for graphical apps.
 
 **When not using Xfce**, configure i3bar or some other bar of your choosing. Or do whatever. Your choice.
