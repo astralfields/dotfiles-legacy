@@ -8,10 +8,14 @@ Here's what it looks like:
 
 There are more images in [this album](http://imgur.com/a/WkvTg). The **wallpaper** is included.
 
-The blue glow is simply a colored window shadow made with compton.
+For these settings to work you need:
 
-# Terminal colors
+- i3-gaps
+- compton
+- Xfce (optionally)
 
-The color scheme is called **Smyck**.
+**When using Xfce**, use its session manager to set xfdesktop and xfwm4 to never restart, have i3 and compton start on boot, and save the session.
 
-You can find it on [its homepage](http://color.smyck.org/) or [on GitHub](https://github.com/hukl/Smyck-Color-Scheme/).
+**When not using Xfce**, configure i3bar or some other bar of your choosing. Or do whatever. Your choice.
+
+The **terminal color scheme** is called **Smyck**. You can find it on [its homepage](http://color.smyck.org/) or [on GitHub](https://github.com/hukl/Smyck-Color-Scheme/).
