@@ -1,6 +1,6 @@
-# dotfiles
+# "Ocean" theme for i3-gaps
 
-These are most of my configs and other files I used for my laptop's rice. Uploaded to share with /r/unixporn and also to put it up on my desktop PC once I can get X to start up again...
+These are most of my configs and other files I once used for my laptop's rice. I don't use it anymore but I'm keeping it for others to enjoy.
 
 Here's what it looks like:
 
